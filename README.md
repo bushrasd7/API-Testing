@@ -1,4 +1,4 @@
-# AOI Testing
+# API Testing
 # API-automation by postman & newman
 
 ## About this project:
