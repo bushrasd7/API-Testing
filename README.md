@@ -25,7 +25,9 @@
 
 
 ## Test Case Documentation
-- https://docs.google.com/spreadsheets/d/1RhSCx4ygKglUSljwSinTJvM-k3_x9Tj50VXUXmUzdzk/edit#gid=0
+- ![image](https://github.com/bushrasd7/API-Testing/assets/102007511/aeb14f7e-04d6-49db-abf7-8c8d1808cc21)
+
 
 ## Bug Report
-- https://docs.google.com/spreadsheets/d/1oympKsbdBrm2ZMftAvVc_xWENVKtktF1H2Y4P9NomxE/edit#gid=0
+- ![image](https://github.com/bushrasd7/API-Testing/assets/102007511/c015ea83-3b11-4436-b192-0e23fc41a6af)
+
