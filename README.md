@@ -17,8 +17,6 @@
 - ``` npm i ```
 - ``` node .\report.js ```
 
-## d-money API documentation
-- https://documenter.getpostman.com/view/29421905/2s9YC1WEUP
 
 ## Test Report
 ![image](https://github.com/bushrasd7/Dmoney-B8/assets/102007511/b9126fcf-e293-44fc-b273-748ec53315e7)
